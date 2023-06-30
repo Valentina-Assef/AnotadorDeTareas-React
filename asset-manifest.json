@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AnotadorDeTareas-React/static/css/main.9b760d67.css",
+    "main.js": "/AnotadorDeTareas-React/static/js/main.71cf286c.js",
+    "index.html": "/AnotadorDeTareas-React/index.html",
+    "main.9b760d67.css.map": "/AnotadorDeTareas-React/static/css/main.9b760d67.css.map",
+    "main.71cf286c.js.map": "/AnotadorDeTareas-React/static/js/main.71cf286c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b760d67.css",
+    "static/js/main.71cf286c.js"
+  ]
+}
